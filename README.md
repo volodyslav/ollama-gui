@@ -18,3 +18,5 @@ Check for more information about flet and ollama here:
 https://github.com/ollama/ollama-python?tab=readme-ov-file
 
 https://flet.dev/
+
+![Screenshot_1](https://github.com/volodyslav/ollama-gui/assets/122315136/b5d6ba24-e49b-431b-a9ac-c948b7a6c4a2)
