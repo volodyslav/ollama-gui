@@ -6,9 +6,9 @@ This app was made by using ollama model and flet framework.
 
 1. Download Ollama from https://ollama.com/
 
-2. In prompt command put ```ollama run llama2```
+2. In command prompt put ```ollama run llama2```
 
-3. Download this repository
+3. Download the repository
 
 4. Install ollama and flet by using this commands ```pip install ollama``` and ```pip install flet``` or using command ```pip install -r requirements.txt```
 
