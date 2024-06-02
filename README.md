@@ -10,7 +10,7 @@ This app was made by using ollama model and flet framework.
 
 3. Download this repository
 
-4. Install ollama and flet by using this commands ```pip install ollama``` and ```pip install flet```
+4. Install ollama and flet by using this commands ```pip install ollama``` and ```pip install flet``` or using command ```pip install -r requirements.txt```
 
 
 Check for more information about flet and ollama here:
@@ -19,4 +19,8 @@ https://github.com/ollama/ollama-python?tab=readme-ov-file
 
 https://flet.dev/
 
-![Screenshot_1](https://github.com/volodyslav/ollama-gui/assets/122315136/b5d6ba24-e49b-431b-a9ac-c948b7a6c4a2)
+Examples:
+
+![Screenshot_1.png](..%2FScreenshot_1.png)
+
+![Screenshot_2.png](..%2FScreenshot_2.png)
