@@ -10,7 +10,7 @@ This app was made by using ollama model and flet framework.
 
 3. Download the repository
 
-4. Install ollama and flet by using this commands ```pip install ollama``` and ```pip install flet``` or using command ```pip install -r requirements.txt```
+4. Install ollama and flet by using these commands ```pip install ollama``` and ```pip install flet``` or using command ```pip install -r requirements.txt```
 
 
 Check for more information about flet and ollama here:
